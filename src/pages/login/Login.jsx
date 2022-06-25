@@ -21,6 +21,7 @@ const Login = () => {
         flexDirection: "column",
         alignItems: "center",
         justifyContent: "center",
+        overflow:"hidden",
       }}
     >
       <input
